@@ -1,7 +1,8 @@
 ##🐘 Бесконеч
 
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/d69d823c-f666-4c9a-90ca-cb139969bdc0
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/85d46473-647c-4bf1-9786-9981e38dd1a7
 ">
+
 
 🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀
 <h3 align="left">Connect with me:</h3>
