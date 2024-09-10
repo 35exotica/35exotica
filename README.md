@@ -1,7 +1,6 @@
 ##🐘 Бесконеч
 
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/85d46473-647c-4bf1-9786-9981e38dd1a7
-">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/85d46473-647c-4bf1-9786-9981e38dd1a7">
 
 
 🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀
