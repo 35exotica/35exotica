@@ -13,6 +13,7 @@
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/7dcd0ce5-e6bf-4739-a287-a433665c5e45">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/169ecee8-d282-4f14-a549-4bb9d3dd97b7">
 
 - 💬 ВСЕМ ПРИВЕТ ...
 - 📫 How to reach me: ...
